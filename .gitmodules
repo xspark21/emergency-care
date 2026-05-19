@@ -1,0 +1,3 @@
+[submodule "deis-cie11"]
+	path = deis-cie11
+	url = https://www.github.com/xspark21/deis-cie11.git
