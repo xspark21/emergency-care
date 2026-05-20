@@ -1,0 +1,10 @@
+[project]
+name = "emergency-care"
+version = "0.1.0"
+description = "pipeline de consolidación de atenciones de urgencia DEIS 2019-2025"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fastexcel>=0.20.2",
+    "polars>=1.40.1",
+]
