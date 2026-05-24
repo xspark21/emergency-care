@@ -10,7 +10,7 @@ Parquet con cobertura geográfica completa para todo el período.
 
 El mapeo semántico hacia CIE-11 vive en [`deis-cie11`](https://github.com/xspark21/deis-cie11),
 incluido como submódulo. La motivación, decisiones de diseño y limitaciones de la
-base se describen en [`informe.pdf`](informe.pdf).
+base se describen en [`Informe.pdf`](Informe.pdf).
 
 ---
 
